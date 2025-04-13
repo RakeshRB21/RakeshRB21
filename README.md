@@ -23,13 +23,12 @@
 
 🧰 **Tech Stack**
 
-```bash
 💻 Languages:        Java • Python • C++ • JavaScript
 🌐 Web Dev:          HTML • CSS • React • Node.js • Express • MongoDB
 🧠 AI/ML:            TensorFlow • Keras • Sklearn • OpenCV • NLP (VADER)
 📊 Data Tools:       Power BI • Pandas • NumPy • Seaborn • Matplotlib
 ☁️ Cloud & DevOps:  AWS • EC2 • S3 • EBS • Docker • Cirrus • OpenShift
-🛢️ Databases:       DB2 • SQL • MongoDB ```
+🛢️ Databases:       DB2 • SQL • MongoDB
 
 📜 **Certifications**
 
