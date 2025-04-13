@@ -29,7 +29,7 @@
 🧠 AI/ML:            TensorFlow • Keras • Sklearn • OpenCV • NLP (VADER)
 📊 Data Tools:       Power BI • Pandas • NumPy • Seaborn • Matplotlib
 ☁️ Cloud & DevOps:  AWS • EC2 • S3 • EBS • Docker • Cirrus • OpenShift
-🛢️ Databases:       DB2 • SQL • MongoDB 
+🛢️ Databases:       DB2 • SQL • MongoDB ```
 
 📜 **Certifications**
 
@@ -38,6 +38,6 @@
     🏅 AWS Cloud Practitioner (CLF-C01)
 
 📫 **Let’s Connect!**
-- 🔗 [Portfolio](https://rakeshrb21.github.io/LuxeVogue/)
+- 🔗 [Portfolio](https://rakeshrb21.github.io/portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rakeshrb)
 - 📧 [Email Me](mailto:rakeshrb2105@gmail.com)
