@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm <span style="color:#f39c12">Rakesh,</span> – Welcome to my GitHub!</h2>
 
 <p align="center">
-🚀 Software Developer Intern @ IBM CIO | 💻 Full-Stack Dev | 🎓 AI/ML Enthusiast | 🧠 Deep Learning | 💰 Finance</p>
+🚀 Software Developer @ IBM CIO | 💻 Full-Stack Dev | 🎓 AI/ML Enthusiast | 🧠 Deep Learning | 💰 Finance</p>
 
 ---
 
