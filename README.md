@@ -26,7 +26,7 @@
 - 📈 **AI Stock Dashboard**: Real-time analysis + NLP + Gemini AI  
 - 💰 **Cash-IQ**: Financial literacy site with chatbots & smart calculators
 ---
-#📜 Certifications
+# 📜 Certifications
 
 🏅 AWS Solutions Architect – Associate (SAA-C03)<br>
 🏅 AWS Cloud Practitioner (CLF-C01)
