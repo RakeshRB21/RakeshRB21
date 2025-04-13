@@ -23,11 +23,11 @@
 
 🧰 **Tech Stack**
 
-💻 Languages:        Java • Python • C++ • JavaScript
-🌐 Web Dev:          HTML • CSS • React • Node.js • Express • MongoDB
-🧠 AI/ML:            TensorFlow • Keras • Sklearn • OpenCV • NLP (VADER)
-📊 Data Tools:       Power BI • Pandas • NumPy • Seaborn • Matplotlib
-☁️ Cloud & DevOps:  AWS • EC2 • S3 • EBS • Docker • Cirrus • OpenShift
+💻 Languages:        Java • Python • C++ • JavaScript <br>
+🌐 Web Dev:          HTML • CSS • React • Node.js • Express • MongoDB <br>
+🧠 AI/ML:            TensorFlow • Keras • Sklearn • OpenCV • NLP (VADER) <br>
+📊 Data Tools:       Power BI • Pandas • NumPy • Seaborn • Matplotlib <br>
+☁️ Cloud & DevOps:  AWS • EC2 • S3 • EBS • Docker • Cirrus • OpenShift <br>
 🛢️ Databases:       DB2 • SQL • MongoDB
 
 📜 **Certifications**
