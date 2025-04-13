@@ -5,7 +5,7 @@
 
 ---
 
-#💡 **About Me**
+# 💡 About Me:
 - 🎓 Final-year B.Tech CSE (AI & ML) @ VIT Chennai – CGPA: 8.66
 - 💼 Software Developer at **IBM CIO**, working on enterprise-grade solutions
 - 🔬 Deep interest in **GenAI**, **Financial Analytics**, and **Real-Time Systems**
