@@ -8,13 +8,13 @@
 💡 **About Me**
 - 🎓 Final-year B.Tech CSE (AI & ML) @ VIT Chennai – CGPA: 8.66
 - 💼 Software Developer at **IBM CIO**, working on enterprise-grade solutions
-- 🔬 Deep interest in **Explainable AI**, **Financial Analytics**, and **Real-Time Systems**
-- 🌟 Constantly building projects that intersect ML, finance, and full-stack development
+- 🔬 Deep interest in **GenAI**, **Financial Analytics**, and **Real-Time Systems**
+- 🌟 Constantly building projects that intersect AI, finance, and full-stack development
 
 ---
 
 🧪 **Highlighted Projects**
-- 🧴 **Explainable AI in Dermatology**: Custom CNN + Grad-CAM + EfficientNet for skin cancer detection  
+- 🧴 **Explainable AI in Dermatology**: Custom CNN + Grad-CAM + EfficientNet for skin cancer detection and explanation 
 - 📊 **Walmart Sales BI Dashboard**: Insights via Power BI + Python EDA  
 - 📈 **AI Stock Dashboard**: Real-time analysis + NLP + Gemini AI  
 - 💰 **Cash-IQ**: Financial literacy site with chatbots & smart calculators  
@@ -22,8 +22,7 @@
 ---
 
 🧰 **Tech Stack**
-
-💻 Languages:        Java • Python • C++ • JavaScript <br>
+💻 Languages:        Java • Python • JavaScript <br>
 🌐 Web Dev:          HTML • CSS • React • Node.js • Express • MongoDB <br>
 🧠 AI/ML:            TensorFlow • Keras • Sklearn • OpenCV • NLP (VADER) <br>
 📊 Data Tools:       Power BI • Pandas • NumPy • Seaborn • Matplotlib <br>
@@ -31,8 +30,7 @@
 🛢️ Databases:       DB2 • SQL • MongoDB
 
 📜 **Certifications**
-
-🏅 AWS Solutions Architect – Associate (SAA-C03)
+🏅 AWS Solutions Architect – Associate (SAA-C03)<br>
 🏅 AWS Cloud Practitioner (CLF-C01)
 
 📫 **Let’s Connect!**
