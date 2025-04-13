@@ -32,9 +32,8 @@
 
 📜 **Certifications**
 
-    🏅 AWS Solutions Architect – Associate (SAA-C03)
-
-    🏅 AWS Cloud Practitioner (CLF-C01)
+🏅 AWS Solutions Architect – Associate (SAA-C03)
+🏅 AWS Cloud Practitioner (CLF-C01)
 
 📫 **Let’s Connect!**
 - 🔗 [Portfolio](https://rakeshrb21.github.io/portfolio/)
